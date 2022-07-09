@@ -1,2 +1,1 @@
-# manzis
-Nothing i need software
+Directories

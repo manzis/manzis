@@ -1,16 +1,14 @@
  ## 💫 About Me:
  ## Hello World! 👋 I'm Manjish Upadhaya.
 
-🎨 UI/UX Designer crafting pixel-perfect experiences | 💻 Front-end Developer bringing designs to life
+🎨 UI/UX Designer crafting pixel-perfect experiences | 💻 Front-end Developer bringing designs to life <br>
+⚡ Fun fact: I can spot misaligned elements from a mile away (it's both a superpower and a curse!) <br>
+🔭 Currently building delightful user interfaces with React and diving deep into motion design <br>
+🌱 Learning: Three.js for immersive web experiences<br>
+🤝 Open to: Collaborating on innovative projects that challenge the status quo<br>
+💡 Passionate about: Creating accessible designs that make the web beautiful for everyone<br><br>
 
-⚡ Fun fact: I can spot misaligned elements from a mile away (it's both a superpower and a curse!)
-
-🔭 Currently building delightful user interfaces with React and diving deep into motion design
-🌱 Learning: Three.js for immersive web experiences
-🤝 Open to: Collaborating on innovative projects that challenge the status quo
-💡 Passionate about: Creating accessible designs that make the web beautiful for everyone
-
-Let's build something amazing together! 
+Let's build something amazing together! <br>
 📫 Reach me: manjishupadhaya@gmail.com
 
 

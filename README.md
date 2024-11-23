@@ -1,5 +1,5 @@
-# 💫 About Me:
-# Hello World! 👋 I'm [Your Name]
+ ## 💫 About Me:
+ ## Hello World! 👋 I'm Manjish Upadhaya.
 
 🎨 UI/UX Designer crafting pixel-perfect experiences | 💻 Front-end Developer bringing designs to life
 
@@ -11,7 +11,7 @@
 💡 Passionate about: Creating accessible designs that make the web beautiful for everyone
 
 Let's build something amazing together! 
-📫 Reach me: [your email/LinkedIn]
+📫 Reach me: manjishupadhaya@gmail.com
 
 
 ## 🌐 Socials:
